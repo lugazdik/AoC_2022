@@ -33,6 +33,5 @@ def task02(parsed_input):
 
 
 prepared_file = read_file('day01.txt')
-print(prepared_file)
 print(task01(prepared_file))
 print(task02(prepared_file))
