@@ -1,4 +1,4 @@
-# link to source problem: https://adventofcode.com/2022/day/2
+# link to source problem: https://adventofcode.com/2022/day/3
 
 def read_file(path):
     result = []
